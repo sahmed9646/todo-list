@@ -7,8 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-##To-Do list Application
-This is simple todo web application using Laravel framework. The project was built for learning purposes of Laravel. 
+<h2>To-Do list Application</h2>
+This is simple todo web application using Laravel framework.</br> The project was built for learning purposes of Laravel. 
 
 
 ## About Laravel
